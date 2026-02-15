@@ -3,7 +3,7 @@ A responsive site  created by myself inspired by Udemy(e-learning platform) buil
 # Disclaimer
 This project is for educational purposes only and is not affiliated with by Udemy.
 # How to view my u'dumy project
-You can access my portfoio by visiting ( https://mahaveer-24.github.io/My-udumy-clone-project-3/ ). feel free to explore the page.
+You can access my version of u'dumy you view via this link ( https://mahaveer-24.github.io/My-udumy-clone-project-3/ ). feel free to explore the page.
 # languages used
 -HTML -CSS
 # Page Description
